@@ -16,8 +16,8 @@ Currently, I'm exploring Computer Vision and Generative AI to solve real-world p
 * **Tools:** Git, GitHub, VS Code, Linux CLI, Railway
 
 ### 📫 Let's Connect:
-* [LinkedIn](www.linkedin.com/in/carlos-khoury)
-* [Email Me](carloskhoury11@hotmail.com)
+* LinkedIn: www.linkedin.com/in/carlos-khoury
+* Email Me: carloskhoury11@hotmail.com
 
 ---
 ⭐️ *From Carlos with passion for clean code and scalable architecture.*
