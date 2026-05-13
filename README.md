@@ -5,7 +5,9 @@ I am a Software Engineer passionate about building intelligent applications at t
 Currently, I'm exploring Computer Vision and Generative AI to solve real-world problems.
 
 ### 🚀 What I'm up to:
-* 🏌️‍♂️ Just shipped: **[AI Golf Swing Analyzer](https://golf-swing-analyzer.up.railway.app/)** - A computer vision app that tracks biomechanics and provides AI-generated coaching.
+* 🏌️‍♂️ Just shipped:
+* **[AI Golf Swing Analyzer](https://golf-swing-analyzer.up.railway.app/)** - A computer vision app that tracks biomechanics and provides AI-generated coaching.
+* **[Vaultix Password Manager](https://vaultix.up.railway.app/login)** - A full-stack password manager with secure authentication, encrypted credential storage, and password generation.
 * 💻 Currently learning: Advanced LLM prompting and Cloud Deployment architectures.
 * 🤝 Looking to collaborate on: Open-source Python tools and AI-driven web apps.
 
